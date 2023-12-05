@@ -20,10 +20,10 @@ making it easier for users to discover new things they might enjoy.
 #### Types of recommendation system:
 1. **Content-Based Recommendation System**: Recommends items similar to those a user has liked before, focusing on the characteristics or features of the items.
 2. **Popularity-Based Recommendation System**: Suggests items based on their overall popularity or the number of interactions (views, purchases, ratings) they have received, without
-3. considering user preferences.
-4. **Collaborative-Based Recommendation System**: Recommends items based on similarities between users. It identifies patterns by analyzing user behavior or preferences to make suggestions.
-5. **Hybrid Recommendation System**: Utilizes a combination of different recommendation techniques (such as content-based, collaborative-based, or others) to provide more accurate and
-6. diverse recommendations to users.
+   considering user preferences.
+3. **Collaborative-Based Recommendation System**: Recommends items based on similarities between users. It identifies patterns by analyzing user behavior or preferences to make suggestions.
+4. **Hybrid Recommendation System**: Utilizes a combination of different recommendation techniques (such as content-based, collaborative-based, or others) to provide more accurate and
+   diverse recommendations to users.
 
 ### Data description:
 - **Users**: Contains anonymized User-IDs mapped to integers. Includes demographic data like Location and Age where fields contain NULL values.  
