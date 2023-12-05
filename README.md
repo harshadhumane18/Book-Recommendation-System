@@ -31,6 +31,6 @@ making it easier for users to discover new things they might enjoy.
 - **Ratings**: Holds book rating information, featuring explicit ratings on a scale of 1-10 (higher values indicating higher appreciation) and implicit ratings expressed as 0.  
 
 ### 🚀 Contributor:
-Project maintainer: Harshad Humane  
-Github: https://github.com/harshadhumane18  
-Linkedin: https://www.linkedin.com/in/harshad-humane-742729238/
+- Project maintainer: Harshad Humane  
+- Github: https://github.com/harshadhumane18  
+- Linkedin: https://www.linkedin.com/in/harshad-humane-742729238/
