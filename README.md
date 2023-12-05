@@ -6,7 +6,7 @@
 The Book Recommendation System is an innovative solution designed to offer personalized book suggestions to users based on their preferences and past reading habits.
 With a focus on enhancing user satisfaction and broadening literary horizons.Using analytical & math intutions, it creates a custom list of book suggestions just for you. It's 
 all about making it easy to find new books you'll love, making your reading experience even better!
-
+#__________________________________________________________________________________________________________________________________________________________________#
 ### Objective:
 - Our objective is to suggest books based on what you like. Using smart algorithms and your preferences, we aim to give you personalized recommendations, making your reading experience 
 more enjoyable. 
@@ -26,9 +26,9 @@ making it easier for users to discover new things they might enjoy.
 6. diverse recommendations to users.
 
 ### Data description:
-**Users**: Contains anonymized User-IDs mapped to integers. Includes demographic data like Location and Age where fields contain NULL values.  
-**Books**: Identified by respective ISBNs, the dataset provides Book-Title, Book-Author, Year-Of-Publication, Publisher, and cover image URLs (in small, medium, and large sizes). Multiple authors are listed, with only the first author mentioned. Invalid ISBNs have been removed.  
-**Ratings**: Holds book rating information, featuring explicit ratings on a scale of 1-10 (higher values indicating higher appreciation) and implicit ratings expressed as 0.  
+- **Users**: Contains anonymized User-IDs mapped to integers. Includes demographic data like Location and Age where fields contain NULL values.  
+- **Books**: Identified by respective ISBNs, the dataset provides Book-Title, Book-Author, Year-Of-Publication, Publisher, and cover image URLs (in small, medium, and large sizes). Multiple authors are listed, with only the first author mentioned. Invalid ISBNs have been removed.  
+- **Ratings**: Holds book rating information, featuring explicit ratings on a scale of 1-10 (higher values indicating higher appreciation) and implicit ratings expressed as 0.  
 
 ### Contributor:
 Project maintainer: Harshad Humane  
