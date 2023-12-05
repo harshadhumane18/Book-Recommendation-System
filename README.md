@@ -6,7 +6,7 @@
 The Book Recommendation System is an innovative solution designed to offer personalized book suggestions to users based on their preferences and past reading habits.
 With a focus on enhancing user satisfaction and broadening literary horizons.Using analytical & math intutions, it creates a custom list of book suggestions just for you. It's 
 all about making it easy to find new books you'll love, making your reading experience even better!
-#__________________________________________________________________________________________________________________________________________________________________#
+
 ### Objective:
 - Our objective is to suggest books based on what you like. Using smart algorithms and your preferences, we aim to give you personalized recommendations, making your reading experience 
 more enjoyable. 
