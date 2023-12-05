@@ -26,9 +26,7 @@ making it easier for users to discover new things they might enjoy.
 6. diverse recommendations to users.
 
 ### Data description:
-**Users**: Contains anonymized User-IDs mapped to integers. Includes demographic data like Location and Age where available; otherwise, fields contain NULL values. 
-  
-**Books**: Identified by respective ISBNs, the dataset provides Book-Title, Book-Author, Year-Of-Publication, Publisher, and cover image URLs (in small, medium, and large sizes). Multiple authors are listed, with only the first author mentioned. Invalid ISBNs have been removed.  
+**Users**: Contains anonymized User-IDs mapped to integers. Includes demographic data like Location and Age where available; otherwise, fields contain NULL values. **Books**: Identified by respective ISBNs, the dataset provides Book-Title, Book-Author, Year-Of-Publication, Publisher, and cover image URLs (in small, medium, and large sizes). Multiple authors are listed, with only the first author mentioned. Invalid ISBNs have been removed.  
 **Ratings**: Holds book rating information, featuring explicit ratings on a scale of 1-10 (higher values indicating higher appreciation) and implicit ratings expressed as 0.  
 
 ### Contributor:
